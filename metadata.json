@@ -1,0 +1,6 @@
+{
+  "name": "Poket Pemandu Labuan",
+  "description": "Aplikasi web mesra telefon untuk rujukan pantas destinasi Labuan dan latihan ingatan pemandu pelancong.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
